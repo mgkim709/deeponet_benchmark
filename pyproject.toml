@@ -8,6 +8,7 @@ dependencies = [
   # 여기에 다른 의존성들…
   "pandas>=2.3.2",
   "scipy>=1.15.3",
+  "seaborn>=0.13.2",
   "torch>=2.8.0",
   "torchaudio>=2.8.0",
   "torchvision>=0.23.0",
