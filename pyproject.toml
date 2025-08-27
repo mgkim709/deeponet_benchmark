@@ -3,6 +3,7 @@ name = "mp"
 version = "0.1.0"
 requires-python = ">=3.10"
 dependencies = [
+  "huggingface-hub>=0.34.4",
   "matplotlib>=3.10.5",
   "numpy>=2.2.6",
   # 여기에 다른 의존성들…
